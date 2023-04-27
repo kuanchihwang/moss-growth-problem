@@ -13,10 +13,10 @@ module module_moss_biomass
     !
     ! * Compilation
     !   $ cat /etc/os-release
-    !   PRETTY_NAME="Ubuntu 22.04.1 LTS"
+    !   PRETTY_NAME="Ubuntu 22.04.2 LTS"
     !   NAME="Ubuntu"
     !   VERSION_ID="22.04"
-    !   VERSION="22.04.1 LTS (Jammy Jellyfish)"
+    !   VERSION="22.04.2 LTS (Jammy Jellyfish)"
     !   ...
     !   $ gfortran --version
     !   GNU Fortran (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
